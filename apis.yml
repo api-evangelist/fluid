@@ -1,12 +1,20 @@
+aid: fluid
 name: Fluid
 description: A responsive front-end framework for building flexible and adaptive web
-  layouts
-url: https://www.getfluidkit.com/
+  layouts.
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/fluid/refs/heads/main/apis.yml
+created: '2025-01-01'
+modified: '2026-03-16'
+specificationVersion: '0.19'
 tags:
-- CSS Framework
-- Responsive Design
-- Front-End
-created: '2025'
-modified: '2025'
+  - CSS Framework
+  - Responsive Design
+  - Front-End
 apis: []
 common: []
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
