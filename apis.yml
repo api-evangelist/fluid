@@ -1,7 +1,6 @@
 aid: fluid
 name: Fluid
-description: A responsive front-end framework for building flexible and adaptive web
-  layouts.
+description: A responsive front-end framework for building flexible and adaptive web layouts.
 type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 url: >-
@@ -11,8 +10,8 @@ modified: '2026-03-18'
 specificationVersion: '0.19'
 tags:
   - CSS Framework
-  - Responsive Design
   - Front-End
+  - Responsive Design
 apis:
   - aid: fluid:fluid-css-framework
     name: Fluid CSS Framework
@@ -30,9 +29,9 @@ apis:
         url: https://github.com/fluid-framework/Fluid
     tags:
       - CSS Framework
-      - Responsive Design
       - Front-End
       - Grid System
+      - Responsive Design
 common:
   - type: Website
     url: https://github.com/fluid-framework/Fluid
