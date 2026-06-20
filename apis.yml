@@ -2,7 +2,7 @@ aid: fluid
 name: Fluid
 description: A responsive front-end framework for building flexible and adaptive web layouts.
 type: Index
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 url: >-
   https://raw.githubusercontent.com/api-evangelist/fluid/refs/heads/main/apis.yml
 created: '2025-01-01'
@@ -21,7 +21,7 @@ apis:
       layouts. It uses ITCSS architecture for its file and folder structure and
       is distributed as a stylesheet that can be included via CDN or npm.
     humanURL: https://github.com/fluid-framework/Fluid
-    image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+    image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
     properties:
       - type: Documentation
         url: https://github.com/fluid-framework/Fluid-docs
