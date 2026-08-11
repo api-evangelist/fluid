@@ -45,6 +45,15 @@ apis:
       - Grid System
       - Responsive Design
 common:
+  - type: IssueTracker
+    url: https://github.com/fluid-framework/Fluid/issues
+  - type: Releases
+    url: https://github.com/fluid-framework/Fluid/releases
+  - type: CodeOfConduct
+    url: https://github.com/fluid-framework/Fluid/blob/master/CODE_OF_CONDUCT.md
+  - type: License
+    name: MIT
+    url: https://github.com/fluid-framework/Fluid/blob/master/LICENSE
   - type: Website
     url: https://github.com/fluid-framework/Fluid
   - type: GitHubOrganization
