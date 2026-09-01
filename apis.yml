@@ -34,7 +34,7 @@ modified: '2026-04-28'
 specificationVersion: '0.23'
 tags:
   - CSS Framework
-  - Front-End
+  - Frontend
   - Responsive Design
 tags_raw:
   - CSS Framework
@@ -57,7 +57,7 @@ apis:
         url: https://github.com/fluid-framework/Fluid
     tags:
       - CSS Framework
-      - Front-End
+      - Frontend
       - Grid System
       - Responsive Design
     tags_raw:
