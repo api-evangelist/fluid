@@ -1,4 +1,4 @@
-# Fluid (fluid)
+# Fluid
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -66,49 +66,95 @@
 
 A responsive front-end framework for building flexible and adaptive web layouts.
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/fluid/refs/heads/main/apis.yml)
+**Areas:** CSS Framework · Frontend · Responsive Design
 
-## Scope
+## Fluid on APIs.io
 
-- **Type:** Index 
-- **Position:** Consuming 
-- **Access:** 3rd-Party 
+Everything profiled for Fluid is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/fluid/](https://apis.io/providers/fluid/)** — or go straight to one of the APIs or properties below.
 
-## Tags:
+### APIs (1)
 
- - CSS Framework, Responsive Design, Front-End
+- [Fluid CSS Framework](https://apis.io/apis/fluid/fluid-css-framework/) — Fluid is a CSS framework that provides a responsive grid system, UI components, and utility classes for building flexible and adaptive web layouts. It uses…
 
-## Timestamps
+### Published properties
 
-- **Created:** 2025-01-01 
-- **Modified:** 2026-04-28 
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-## APIs
+#### Plans and pricing (1)
 
-### Fluid CSS Framework
-Fluid is a CSS framework that provides a responsive grid system, UI components, and utility classes for building flexible and adaptive web layouts. It uses ITCSS architecture for its file and folder structure and is distributed as a stylesheet that can be included via CDN or npm.
+Published plans, tiers and prices.
 
-**Human URL:** [https://github.com/fluid-framework/Fluid](https://github.com/fluid-framework/Fluid)
+- [Fluid Plans Pricing](https://apis.io/plans/fluid/fluid-plans-pricing/)
 
+#### Rate limits (1)
 
-#### Tags:
+Published request limits.
 
- - CSS Framework, Responsive Design, Front-End, Grid System
+- [Fluid Rate Limits](https://apis.io/rate-limits/fluid/fluid-rate-limits/)
 
-#### Properties
+#### FinOps (1)
 
-- [Documentation](https://github.com/fluid-framework/Fluid-docs)
-- [GitHubRepository](https://github.com/fluid-framework/Fluid)
+What the API costs to run, by operation.
 
-## Common Properties
+- [Fluid Finops](https://apis.io/finops/fluid/fluid-finops/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://github.com/fluid-framework/Fluid)
-- [GitHubOrganization](https://github.com/fluid-framework)
 - [Documentation](https://github.com/fluid-framework/Fluid-docs)
-- [SDKs](https://www.npmjs.com/package/fluid-css)
+- [GitHub](https://github.com/fluid-framework)
 
-## Maintainers
+## API Evangelist rating
 
-**FN:** Kin Lane
+**Kin Score 12.8** — emerging · rubric 0.24.0 · scored 2026-10-17
 
-**Email:** kin@apievangelist.com
+| Facet | Score |
+|---|---|
+| Discoverability | 39.3 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 26.3 |
+| Developer ergonomics | 16.7 |
+| Access clarity | 7.9 |
+
+**Agent readiness 0.6** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | derived (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 0.0** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/fluid/](https://apis.io/providers/fluid/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Fluid: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/fluid/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
